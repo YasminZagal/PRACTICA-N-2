@@ -1,4 +1,4 @@
-# Practica ESP32 con DHT11
+# Practica ESP32 con DHT22
 Este repositorio muestra la segunda practica del diplomado de como podemos programar una ESP32 con el sensor DHT11.
 
 ## Introducción
