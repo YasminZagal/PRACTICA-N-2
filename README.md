@@ -53,6 +53,8 @@ void loop() {
 }
 
 ```
+![]()
+
 2. Instalar la libreria de **DHT sensor library for ESPx**.
    - Seleccionar pestaña de Librery Manager --> Add a New library --> Colocamos el nombre de libreria 
 
@@ -72,4 +74,4 @@ void loop() {
 
 Una vez terminado iniciamos simulacion y se observaran los valores dentro del monitor serial.
 
-![]()
+![](https://github.com/YasminZagal/PRACTICA-N-2/blob/main/resultado%20practica.jpg)
