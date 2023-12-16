@@ -52,7 +52,6 @@ void loop() {
   delay(1000);
 }
 
-![](https://github.com/YasminZagal/PRACTICA-N-2/blob/main/image.png)
 ```
 
 
