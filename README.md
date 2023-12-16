@@ -27,7 +27,7 @@ Para realizar la practica de este repositorio se necesita entrar a la plataforma
 
 ### Instrucciones de preparación de entorno 
 
-1. Abrir la terminal de programación y colocar la siguente programación:
+1. Abrir la terminal de programación y colocar la siguente codigo:
 
 ```
 #include "DHTesp.h"
