@@ -52,8 +52,9 @@ void loop() {
   delay(1000);
 }
 
-```
 ![](https://github.com/YasminZagal/PRACTICA-N-2/blob/main/image.png)
+```
+
 
 2. Instalar la libreria de **DHT sensor library for ESPx**.
    - Seleccionar pestaña de Librery Manager --> Add a New library --> Colocamos el nombre de libreria 
